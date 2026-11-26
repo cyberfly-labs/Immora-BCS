@@ -1,0 +1,5 @@
+Inter (Rasmus Andersson) and Noto Sans Arabic (Google) are licensed under the SIL Open Font License 1.1 (https://openfontlicense.org).
+Subsetted copies are embedded in Immora HIS so the app looks the same offline in every browser.
+
+noto-devanagari.woff2 — Noto Sans Devanagari (Google), subset to the Devanagari block for the Hindi language pack. SIL Open Font License 1.1.
+noto-arabic.woff2 also covers the extended Arabic letters used by Urdu.

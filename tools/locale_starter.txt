@@ -1,0 +1,341 @@
+# Immora BCS starter language packs. One line per string: English | Arabic | French | Hindi | Urdu
+# Covers navigation, home screens, common buttons, column labels and statuses. Untranslated text stays in English.
+Home|الرئيسية|Accueil|होम|ہوم
+Dashboard|لوحة التحكم|Tableau de bord|डैशबोर्ड|ڈیش بورڈ
+Spaces|المساحات|Espaces|स्पेस|جگہیں
+Floor plan|مخطط الطابق|Plan d'étage|फ़्लोर प्लान|فلور پلان
+Spaces & prices|المساحات والأسعار|Espaces et tarifs|स्पेस और कीमतें|جگہیں اور قیمتیں
+Plans & add-ons|الباقات والإضافات|Formules et options|प्लान और ऐड-ऑन|پلان اور ایڈ آن
+Bookings|الحجوزات|Réservations|बुकिंग|بکنگ
+Room calendar|تقويم القاعات|Calendrier des salles|रूम कैलेंडर|کمروں کا کیلنڈر
+All bookings|كل الحجوزات|Toutes les réservations|सभी बुकिंग|تمام بکنگ
+Members & sales|الأعضاء والمبيعات|Membres et ventes|सदस्य और बिक्री|ممبرز اور سیلز
+Members|الأعضاء|Membres|सदस्य|ممبرز
+Member|عضو|Membre|सदस्य|ممبر
+Companies|الشركات|Sociétés|कंपनियाँ|کمپنیاں
+Company|الشركة|Société|कंपनी|کمپنی
+Lead pipeline|مسار العملاء المحتملين|Pipeline de prospects|लीड पाइपलाइन|لیڈ پائپ لائن
+Tours|الجولات|Visites|टूर|ٹورز
+Tour|جولة|Visite|टूर|ٹور
+Quotes|عروض الأسعار|Devis|कोटेशन|کوٹیشنز
+Quote|عرض سعر|Devis|कोटेशन|کوٹیشن
+Contracts|العقود|Contrats|अनुबंध|معاہدے
+Contract|العقد|Contrat|अनुबंध|معاہدہ
+Renewals & notices|التجديدات والإشعارات|Renouvellements et préavis|नवीनीकरण और नोटिस|تجدید اور نوٹس
+Virtual office|المكتب الافتراضي|Bureau virtuel|वर्चुअल ऑफिस|ورچوئل آفس
+Business address use|استخدام العنوان التجاري|Domiciliation|व्यावसायिक पते का उपयोग|کاروباری پتے کا استعمال
+Mail log|سجل البريد|Registre du courrier|डाक लॉग|ڈاک لاگ
+Call answering|الرد على المكالمات|Réponse téléphonique|कॉल आंसरिंग|کال آنسرنگ
+Billing|الفوترة|Facturation|बिलिंग|بلنگ
+Invoices|الفواتير|Factures|इनवॉइस|انوائسز
+Invoice|فاتورة|Facture|इनवॉइस|انوائس
+Billing run|تشغيل الفوترة|Facturation périodique|बिलिंग रन|بلنگ رن
+Charges & add-ons|الرسوم والإضافات|Frais et options|शुल्क और ऐड-ऑन|چارجز اور ایڈ آن
+Receipts|الإيصالات|Reçus|रसीदें|رسیدیں
+Receipt|إيصال|Reçu|रसीद|رسید
+Credit notes|الإشعارات الدائنة|Avoirs|क्रेडिट नोट|کریڈٹ نوٹس
+Credit note|إشعار دائن|Avoir|क्रेडिट नोट|کریڈٹ نوٹ
+Overdue & reminders|المتأخرات والتذكيرات|Impayés et relances|बकाया और रिमाइंडर|واجبات اور یاد دہانیاں
+Export to Immora Books|تصدير إلى Immora Books|Exporter vers Immora Books|Immora Books में निर्यात|Immora Books میں ایکسپورٹ
+Front desk|الاستقبال|Accueil réception|फ्रंट डेस्क|فرنٹ ڈیسک
+Check-in|تسجيل الدخول|Enregistrement|चेक-इन|چیک ان
+Visitors|الزوار|Visiteurs|आगंतुक|مہمان
+Visitor|زائر|Visiteur|आगंतुक|مہمان
+Access-card log|سجل بطاقات الدخول|Journal des badges|एक्सेस कार्ड लॉग|ایکسیس کارڈ لاگ
+Helpdesk|الدعم|Assistance|हेल्पडेस्क|ہیلپ ڈیسک
+Tickets|الطلبات|Tickets|टिकट|ٹکٹس
+Ticket|طلب|Ticket|टिकट|ٹکٹ
+Reports|التقارير|Rapports|रिपोर्ट|رپورٹس
+Administration|الإدارة|Administration|प्रशासन|انتظامیہ
+Centre settings|إعدادات المركز|Paramètres du centre|सेंटर सेटिंग्स|سینٹر سیٹنگز
+Users & logins|المستخدمون وتسجيل الدخول|Utilisateurs et accès|उपयोगकर्ता और लॉगिन|صارفین اور لاگ ان
+Outbox (simulated)|صندوق الصادر (محاكاة)|Boîte d'envoi (simulée)|आउटबॉक्स (सिम्युलेटेड)|آؤٹ باکس (فرضی)
+Audit trail|سجل التدقيق|Journal d'audit|ऑडिट ट्रेल|آڈٹ ٹریل
+Backup & restore|النسخ الاحتياطي والاستعادة|Sauvegarde et restauration|बैकअप और रीस्टोर|بیک اپ اور ریسٹور
+Book a room|احجز قاعة|Réserver une salle|रूम बुक करें|کمرہ بک کریں
+My bookings|حجوزاتي|Mes réservations|मेरी बुकिंग|میری بکنگ
+Help & requests|المساعدة والطلبات|Aide et demandes|सहायता और अनुरोध|مدد اور درخواستیں
+My guests|ضيوفي|Mes invités|मेरे मेहमान|میرے مہمان
+Mail for me|بريدي|Mon courrier|मेरी डाक|میری ڈاک
+Member portal|بوابة الأعضاء|Portail membre|सदस्य पोर्टल|ممبر پورٹل
+Staff sign in|دخول الموظفين|Connexion équipe|स्टाफ साइन इन|اسٹاف سائن ان
+Sign in|تسجيل الدخول|Se connecter|साइन इन|سائن ان
+Sign out|تسجيل الخروج|Se déconnecter|साइन आउट|سائن آؤٹ
+Username|اسم المستخدم|Identifiant|उपयोगकर्ता नाम|صارف نام
+Password|كلمة المرور|Mot de passe|पासवर्ड|پاس ورڈ
+Business Centre System|نظام مراكز الأعمال|Système de centre d'affaires|बिज़नेस सेंटर सिस्टम|بزنس سینٹر سسٹم
+Demo logins (fictional data)|حسابات تجريبية (بيانات وهمية)|Comptes de démo (données fictives)|डेमो लॉगिन (काल्पनिक डेटा)|ڈیمو لاگ ان (فرضی ڈیٹا)
+Wrong username or password|اسم المستخدم أو كلمة المرور غير صحيحة|Identifiant ou mot de passe incorrect|गलत उपयोगकर्ता नाम या पासवर्ड|غلط صارف نام یا پاس ورڈ
+Floor plan and live availability|مخطط الطابق والتوفر المباشر|Plan d'étage et disponibilité en direct|फ़्लोर प्लान और लाइव उपलब्धता|فلور پلان اور لائیو دستیابی
+Meeting rooms with credits|قاعات اجتماعات بالرصيد|Salles de réunion avec crédits|क्रेडिट के साथ मीटिंग रूम|کریڈٹس کے ساتھ میٹنگ رومز
+Recurring billing and tax invoices|فوترة دورية وفواتير ضريبية|Facturation récurrente et factures fiscales|आवर्ती बिलिंग और टैक्स इनवॉइस|بار بار بلنگ اور ٹیکس انوائسز
+Front desk, visitors and mail|الاستقبال والزوار والبريد|Réception, visiteurs et courrier|फ्रंट डेस्क, आगंतुक और डाक|فرنٹ ڈیسک، مہمان اور ڈاک
+Server edition|نسخة الخادم|Édition serveur|सर्वर संस्करण|سرور ایڈیشن
+Powered by Immora|مدعوم من Immora|Propulsé par Immora|Immora द्वारा संचालित|Immora کی طرف سے
+Language|اللغة|Langue|भाषा|زبان
+Light / dark|فاتح / داكن|Clair / sombre|लाइट / डार्क|لائٹ / ڈارک
+Search or jump to…|ابحث أو انتقل إلى…|Rechercher ou aller à…|खोजें या जाएँ…|تلاش کریں یا جائیں…
+New|جديد|Nouveau|नया|نیا
+Take the guided tour|ابدأ الجولة الإرشادية|Visite guidée|गाइडेड टूर लें|گائیڈڈ ٹور لیں
+Keyboard shortcuts|اختصارات لوحة المفاتيح|Raccourcis clavier|कीबोर्ड शॉर्टकट|کی بورڈ شارٹ کٹس
+Change password|تغيير كلمة المرور|Changer le mot de passe|पासवर्ड बदलें|پاس ورڈ تبدیل کریں
+Reset demo data|إعادة ضبط البيانات التجريبية|Réinitialiser la démo|डेमो डेटा रीसेट करें|ڈیمو ڈیٹا ری سیٹ کریں
+Good day|يوم سعيد|Bonjour|नमस्कार|السلام علیکم
+Welcome|مرحباً|Bienvenue|स्वागत है|خوش آمدید
+New booking|حجز جديد|Nouvelle réservation|नई बुकिंग|نئی بکنگ
+Add member|إضافة عضو|Ajouter un membre|सदस्य जोड़ें|ممبر شامل کریں
+Run billing for this month|تشغيل فوترة هذا الشهر|Facturer ce mois|इस महीने की बिलिंग चलाएँ|اس مہینے کی بلنگ چلائیں
+New contract|عقد جديد|Nouveau contrat|नया अनुबंध|نیا معاہدہ
+Register visitor|تسجيل زائر|Enregistrer un visiteur|आगंतुक दर्ज करें|مہمان درج کریں
+Log mail|تسجيل بريد|Enregistrer un courrier|डाक दर्ज करें|ڈاک درج کریں
+Log a call|تسجيل مكالمة|Noter un appel|कॉल दर्ज करें|کال درج کریں
+New ticket|طلب جديد|Nouveau ticket|नया टिकट|نیا ٹکٹ
+New lead|عميل محتمل جديد|Nouveau prospect|नई लीड|نئی لیڈ
+New quote|عرض سعر جديد|Nouveau devis|नया कोटेशन|نیا کوٹیشن
+New invoice|فاتورة جديدة|Nouvelle facture|नया इनवॉइस|نئی انوائس
+Office occupancy|إشغال المكاتب|Occupation des bureaux|ऑफिस ऑक्यूपेंसी|دفاتر کی گنجائش
+Desk occupancy|إشغال المكاتب المشتركة|Occupation des postes|डेस्क ऑक्यूपेंसी|ڈیسک کی گنجائش
+Room bookings today|حجوزات القاعات اليوم|Réservations de salles aujourd'hui|आज की रूम बुकिंग|آج کی کمرہ بکنگ
+Monthly recurring revenue|الإيراد الشهري المتكرر|Revenu mensuel récurrent|मासिक आवर्ती राजस्व|ماہانہ بار بار آمدنی
+Overdue|متأخر|En retard|बकाया|واجب الادا
+Revenue (6 months, before VAT)|الإيرادات (6 أشهر، قبل الضريبة)|Chiffre d'affaires (6 mois, HT)|राजस्व (6 महीने, वैट से पहले)|آمدنی (6 ماہ، VAT سے پہلے)
+Space status now|حالة المساحات الآن|État des espaces|अभी स्पेस की स्थिति|جگہوں کی موجودہ حالت
+Today's rooms|قاعات اليوم|Salles du jour|आज के रूम|آج کے کمرے
+Open calendar|فتح التقويم|Ouvrir le calendrier|कैलेंडर खोलें|کیلنڈر کھولیں
+Needs attention|يحتاج إلى متابعة|À traiter|ध्यान दें|توجہ درکار
+Visitors today|زوار اليوم|Visiteurs du jour|आज के आगंतुक|آج کے مہمان
+Mail to hand out|بريد للتسليم|Courrier à remettre|सौंपने के लिए डाक|حوالے کرنے کے لیے ڈاک
+Open tickets|طلبات مفتوحة|Tickets ouverts|खुले टिकट|کھلے ٹکٹس
+Pipeline|مسار المبيعات|Pipeline|पाइपलाइन|پائپ لائن
+Open pipeline|فتح المسار|Ouvrir le pipeline|पाइपलाइन खोलें|پائپ لائن کھولیں
+Open leads|عملاء محتملون مفتوحون|Prospects ouverts|खुली लीड|کھلی لیڈز
+Pipeline value|قيمة المسار|Valeur du pipeline|पाइपलाइन मूल्य|پائپ لائن کی قیمت
+Upcoming tours|الجولات القادمة|Visites à venir|आगामी टूर|آنے والے ٹورز
+Renewals due|تجديدات مستحقة|Renouvellements à venir|देय नवीनीकरण|واجب تجدید
+Aged receivables|أعمار الذمم المدينة|Balance âgée|पुराने प्राप्य|پرانی وصولیاں
+Occupancy|الإشغال|Occupation|ऑक्यूपेंसी|گنجائش
+Revenue|الإيرادات|Chiffre d'affaires|राजस्व|آمدنی
+Churn|التسرب|Attrition|चर्न|چرن
+Room use|استخدام القاعات|Utilisation des salles|रूम उपयोग|کمروں کا استعمال
+Save|حفظ|Enregistrer|सहेजें|محفوظ کریں
+Cancel|إلغاء|Annuler|रद्द करें|منسوخ کریں
+Close|إغلاق|Fermer|बंद करें|بند کریں
+Delete|حذف|Supprimer|हटाएँ|حذف کریں
+Edit|تعديل|Modifier|संपादित करें|ترمیم کریں
+View|عرض|Voir|देखें|دیکھیں
+Create|إنشاء|Créer|बनाएँ|بنائیں
+Remove|إزالة|Retirer|हटाएँ|ہٹائیں
+Print|طباعة|Imprimer|प्रिंट|پرنٹ
+Print / PDF|طباعة / PDF|Imprimer / PDF|प्रिंट / PDF|پرنٹ / PDF
+Preview|معاينة|Aperçu|पूर्वावलोकन|پیش نظارہ
+Export CSV|تصدير CSV|Exporter CSV|CSV निर्यात|CSV ایکسپورٹ
+Filter|تصفية|Filtrer|फ़िल्टर|فلٹر
+Filter this list…|تصفية هذه القائمة…|Filtrer cette liste…|इस सूची को फ़िल्टर करें…|اس فہرست کو فلٹر کریں…
+Next|التالي|Suivant|अगला|اگلا
+Previous|السابق|Précédent|पिछला|پچھلا
+Skip|تخطي|Passer|छोड़ें|چھوڑیں
+Done|تم|Terminé|हो गया|ہو گیا
+Today|اليوم|Aujourd'hui|आज|آج
+Day|يوم|Jour|दिन|دن
+Week|أسبوع|Semaine|सप्ताह|ہفتہ
+Month|شهر|Mois|महीना|مہینہ
+Go|انتقال|Aller|जाएँ|جائیں
+Book|احجز|Réserver|बुक करें|بک کریں
+Issue|إصدار|Émettre|जारी करें|جاری کریں
+Issue tax invoice|إصدار فاتورة ضريبية|Émettre la facture|टैक्स इनवॉइस जारी करें|ٹیکس انوائس جاری کریں
+Save draft|حفظ كمسودة|Enregistrer le brouillon|ड्राफ्ट सहेजें|ڈرافٹ محفوظ کریں
+Record payment|تسجيل دفعة|Enregistrer un paiement|भुगतान दर्ज करें|ادائیگی درج کریں
+Payment link|رابط الدفع|Lien de paiement|भुगतान लिंक|ادائیگی کا لنک
+Issue credit note|إصدار إشعار دائن|Émettre un avoir|क्रेडिट नोट जारी करें|کریڈٹ نوٹ جاری کریں
+Void invoice|إلغاء الفاتورة|Annuler la facture|इनवॉइस रद्द करें|انوائس منسوخ کریں
+Renew|تجديد|Renouveler|नवीनीकरण करें|تجدید کریں
+Renew contract|تجديد العقد|Renouveler le contrat|अनुबंध नवीनीकृत करें|معاہدے کی تجدید کریں
+End contract|إنهاء العقد|Résilier le contrat|अनुबंध समाप्त करें|معاہدہ ختم کریں
+Check in|تسجيل دخول|Enregistrer l'arrivée|चेक इन|چیک ان
+Check out|تسجيل خروج|Enregistrer le départ|चेक आउट|چیک آؤٹ
+Print badge|طباعة البطاقة|Imprimer le badge|बैज प्रिंट करें|بیج پرنٹ کریں
+Visitor badge|بطاقة الزائر|Badge visiteur|आगंतुक बैज|مہمان بیج
+Card tap (simulated)|تمرير البطاقة (محاكاة)|Passage de badge (simulé)|कार्ड टैप (सिम्युलेटेड)|کارڈ ٹیپ (فرضی)
+Member check-in|تسجيل دخول عضو|Arrivée d'un membre|सदस्य चेक-इन|ممبر چیک ان
+Edit layout|تعديل المخطط|Modifier le plan|लेआउट संपादित करें|لے آؤٹ میں ترمیم
+Done editing|إنهاء التعديل|Terminer|संपादन पूरा|ترمیم مکمل
+Name|الاسم|Nom|नाम|نام
+Full name|الاسم الكامل|Nom complet|पूरा नाम|پورا نام
+Email|البريد الإلكتروني|E-mail|ईमेल|ای میل
+Phone|الهاتف|Téléphone|फ़ोन|فون
+Mobile|الجوال|Portable|मोबाइल|موبائل
+Address|العنوان|Adresse|पता|پتہ
+Date|التاريخ|Date|तारीख|تاریخ
+Time|الوقت|Heure|समय|وقت
+Start|البداية|Début|शुरू|آغاز
+End|النهاية|Fin|समाप्त|اختتام
+Start date|تاريخ البدء|Date de début|प्रारंभ तिथि|تاریخ آغاز
+End date|تاريخ الانتهاء|Date de fin|समाप्ति तिथि|تاریخ اختتام
+Due date|تاريخ الاستحقاق|Échéance|देय तिथि|آخری تاریخ
+Status|الحالة|Statut|स्थिति|حالت
+Type|النوع|Type|प्रकार|قسم
+Amount|المبلغ|Montant|राशि|رقم
+Total|الإجمالي|Total|कुल|کل
+Balance|الرصيد|Solde|शेष|بقایا
+Balance due|الرصيد المستحق|Solde dû|देय शेष|واجب الادا بقایا
+Subtotal|المجموع الفرعي|Sous-total|उप-योग|ذیلی کل
+Description|الوصف|Description|विवरण|تفصیل
+Qty|الكمية|Qté|मात्रा|مقدار
+Quantity|الكمية|Quantité|मात्रा|مقدار
+Unit price|سعر الوحدة|Prix unitaire|इकाई मूल्य|فی یونٹ قیمت
+Price|السعر|Prix|कीमत|قیمت
+Number|الرقم|Numéro|संख्या|نمبر
+Client|العميل|Client|ग्राहक|کلائنٹ
+Room|القاعة|Salle|रूम|کمرہ
+Floor|الطابق|Étage|मंज़िल|منزل
+Seats|المقاعد|Places|सीटें|نشستیں
+Plan|الباقة|Formule|प्लान|پلان
+Credits|الرصيد|Crédits|क्रेडिट|کریڈٹس
+Credits left|الرصيد المتبقي|Crédits restants|शेष क्रेडिट|باقی کریڈٹس
+Notes|ملاحظات|Notes|नोट्स|نوٹس
+Reason|السبب|Motif|कारण|وجہ
+Method|الطريقة|Mode|तरीका|طریقہ
+Reference|المرجع|Référence|संदर्भ|حوالہ
+Host|المضيف|Hôte|मेज़बान|میزبان
+Purpose|الغرض|Objet|उद्देश्य|مقصد
+Priority|الأولوية|Priorité|प्राथमिकता|ترجیح
+Category|الفئة|Catégorie|श्रेणी|زمرہ
+Subject|الموضوع|Objet|विषय|موضوع
+Message|الرسالة|Message|संदेश|پیغام
+Role|الدور|Rôle|भूमिका|کردار
+User|المستخدم|Utilisateur|उपयोगकर्ता|صارف
+Stage|المرحلة|Étape|चरण|مرحلہ
+Source|المصدر|Source|स्रोत|ذریعہ
+Deposit|التأمين|Dépôt de garantie|जमा राशि|زر ضمانت
+Security deposit|مبلغ التأمين|Dépôt de garantie|सुरक्षा जमा|سیکیورٹی ڈپازٹ
+Monthly fee|الرسوم الشهرية|Loyer mensuel|मासिक शुल्क|ماہانہ فیس
+Notice period (days)|فترة الإشعار (أيام)|Préavis (jours)|नोटिस अवधि (दिन)|نوٹس کی مدت (دن)
+Ejari-ready fields|حقول جاهزة لإيجاري|Champs prêts pour Ejari|Ejari-तैयार फ़ील्ड|ایجاری کے لیے تیار خانے
+Ejari-ready details|بيانات جاهزة لإيجاري|Données prêtes pour Ejari|Ejari-तैयार विवरण|ایجاری کے لیے تیار تفصیلات
+Trade licence|الرخصة التجارية|Licence commerciale|ट्रेड लाइसेंस|تجارتی لائسنس
+Legal name|الاسم القانوني|Raison sociale|कानूनी नाम|قانونی نام
+TRN|الرقم الضريبي|TRN|TRN|TRN
+Tax Invoice|فاتورة ضريبية|Facture fiscale|टैक्स इनवॉइस|ٹیکس انوائس
+Bill to|فاتورة إلى|Facturer à|बिल प्राप्तकर्ता|بل بنام
+Invoice date|تاريخ الفاتورة|Date de facture|इनवॉइस तिथि|انوائس کی تاریخ
+Invoice no.|رقم الفاتورة|N° de facture|इनवॉइस नं.|انوائس نمبر
+Total amount due|إجمالي المبلغ المستحق|Total à payer|कुल देय राशि|کل واجب الادا رقم
+Payments|المدفوعات|Paiements|भुगतान|ادائیگیاں
+Hot desk|مكتب مشترك|Poste flexible|हॉट डेस्क|ہاٹ ڈیسک
+Dedicated desk|مكتب مخصص|Poste dédié|डेडिकेटेड डेस्क|مخصوص ڈیسک
+Private office|مكتب خاص|Bureau privé|प्राइवेट ऑफिस|نجی دفتر
+Meeting room|قاعة اجتماعات|Salle de réunion|मीटिंग रूम|میٹنگ روم
+Event space|مساحة فعاليات|Espace événementiel|इवेंट स्पेस|ایونٹ اسپیس
+Parking|موقف سيارات|Parking|पार्किंग|پارکنگ
+Locker|خزانة|Casier|लॉकर|لاکر
+Available|متاح|Disponible|उपलब्ध|دستیاب
+Occupied|مشغول|Occupé|भरा हुआ|زیر استعمال
+Reserved|محجوز|Réservé|आरक्षित|محفوظ
+Maintenance|صيانة|Maintenance|रखरखाव|مرمت
+Contacted|تم التواصل|Contacté|संपर्क किया|رابطہ ہوا
+Proposal|عرض|Proposition|प्रस्ताव|تجویز
+Negotiation|تفاوض|Négociation|बातचीत|مذاکرات
+Won|ناجح|Gagné|जीता|کامیاب
+Lost|خاسر|Perdu|हारा|ناکام
+Draft|مسودة|Brouillon|ड्राफ्ट|ڈرافٹ
+Active|نشط|Actif|सक्रिय|فعال
+Notice|إشعار|Préavis|नोटिस|نوٹس
+Ended|منتهٍ|Terminé|समाप्त|ختم
+Renewed|مجدد|Renouvelé|नवीनीकृत|تجدید شدہ
+Cancelled|ملغى|Annulé|रद्द|منسوخ
+Issued|صادرة|Émise|जारी|جاری
+Part paid|مدفوعة جزئياً|Partiellement payée|आंशिक भुगतान|جزوی ادا شدہ
+Paid|مدفوعة|Payée|भुगतान किया|ادا شدہ
+Void|ملغاة|Annulée|रद्द|کالعدم
+Open|مفتوح|Ouvert|खुला|کھلا
+In progress|قيد التنفيذ|En cours|प्रगति में|جاری
+Waiting|بانتظار|En attente|प्रतीक्षा में|منتظر
+Resolved|تم الحل|Résolu|हल हुआ|حل شدہ
+Closed|مغلق|Fermé|बंद|بند
+Cleaning|تنظيف|Nettoyage|सफ़ाई|صفائی
+Access|الدخول|Accès|एक्सेस|رسائی
+Other|أخرى|Autre|अन्य|دیگر
+Low|منخفضة|Basse|कम|کم
+Normal|عادية|Normale|सामान्य|عام
+High|عالية|Haute|उच्च|زیادہ
+Urgent|عاجلة|Urgente|अत्यावश्यक|فوری
+Received|مستلم|Reçu|प्राप्त|موصول
+Notified|تم الإبلاغ|Notifié|सूचित|مطلع کیا گیا
+Collected|تم الاستلام|Retiré|लिया गया|وصول کر لیا
+Forwarded|مُعاد توجيهه|Réexpédié|अग्रेषित|آگے بھیجا گیا
+Letter|رسالة|Lettre|पत्र|خط
+Parcel|طرد|Colis|पार्सल|پارسل
+Bank transfer|تحويل بنكي|Virement|बैंक ट्रांसफ़र|بینک ٹرانسفر
+Card|بطاقة|Carte|कार्ड|کارڈ
+Cash|نقداً|Espèces|नकद|نقد
+Cheque|شيك|Chèque|चेक|چیک
+Confirmed|مؤكد|Confirmé|पुष्ट|تصدیق شدہ
+Tentative|مبدئي|Provisoire|अस्थायी|عارضی
+Checked in|حاضر|Arrivé|चेक इन हुआ|چیک ان ہو گیا
+Checked out|غادر|Parti|चेक आउट हुआ|چیک آؤٹ ہو گیا
+Expected|متوقع|Attendu|अपेक्षित|متوقع
+Booked|محجوز|Réservé|बुक|بک شدہ
+Granted|مسموح|Autorisé|अनुमति|اجازت
+Denied|مرفوض|Refusé|अस्वीकृत|مسترد
+Queued|في الانتظار|En file|कतार में|قطار میں
+Sent (simulated)|أُرسل (محاكاة)|Envoyé (simulé)|भेजा गया (सिम्युलेटेड)|بھیجا گیا (فرضی)
+Accepted|مقبول|Accepté|स्वीकृत|منظور
+Declined|مرفوض|Refusé|अस्वीकृत|مسترد
+Expired|منتهي الصلاحية|Expiré|समाप्त|میعاد ختم
+Due|مستحق|Dû|देय|واجب
+Not due|غير مستحق|Non échu|देय नहीं|واجب نہیں
+Administrator|المدير|Administrateur|प्रशासक|منتظم
+Community manager|مدير المجتمع|Community manager|कम्युनिटी मैनेजर|کمیونٹی مینیجر
+Finance|المالية|Finance|वित्त|مالیات
+Viewer|مشاهد|Lecteur|दर्शक|ناظر
+Settings saved|تم حفظ الإعدادات|Paramètres enregistrés|सेटिंग्स सहेजी गईं|سیٹنگز محفوظ ہو گئیں
+Saved|تم الحفظ|Enregistré|सहेजा गया|محفوظ ہو گیا
+Please confirm|يرجى التأكيد|Veuillez confirmer|कृपया पुष्टि करें|براہ کرم تصدیق کریں
+Required|مطلوب|Obligatoire|आवश्यक|ضروری
+Nothing here yet.|لا يوجد شيء بعد.|Rien pour l'instant.|अभी यहाँ कुछ नहीं है।|یہاں ابھی کچھ نہیں۔
+Use DD-MM-YYYY|استخدم DD-MM-YYYY|Utilisez JJ-MM-AAAA|DD-MM-YYYY का उपयोग करें|DD-MM-YYYY استعمال کریں
+Welcome to your member portal|مرحباً بك في بوابة الأعضاء|Bienvenue sur votre portail membre|आपके सदस्य पोर्टल में स्वागत है|آپ کے ممبر پورٹل میں خوش آمدید
+My invoices|فواتيري|Mes factures|मेरे इनवॉइस|میری انوائسز
+My next bookings|حجوزاتي القادمة|Mes prochaines réservations|मेरी अगली बुकिंग|میری اگلی بکنگ
+Credits left this month|الرصيد المتبقي هذا الشهر|Crédits restants ce mois-ci|इस महीने शेष क्रेडिट|اس مہینے باقی کریڈٹس
+Raise a request|تقديم طلب|Faire une demande|अनुरोध दर्ज करें|درخواست درج کریں
+Invite a guest|دعوة ضيف|Inviter un invité|मेहमान को आमंत्रित करें|مہمان کو مدعو کریں
+Mail waiting|بريد بانتظارك|Courrier en attente|प्रतीक्षारत डाक|منتظر ڈاک
+Book this room|احجز هذه القاعة|Réserver cette salle|यह रूम बुक करें|یہ کمرہ بک کریں
+Settings|الإعدادات|Paramètres|सेटिंग्स|سیٹنگز
+Country preset|إعداد الدولة المسبق|Préréglage pays|देश प्रीसेट|ملک کا پری سیٹ
+Currency|العملة|Devise|मुद्रा|کرنسی
+Country|الدولة|Pays|देश|ملک
+Save settings|حفظ الإعدادات|Enregistrer les paramètres|सेटिंग्स सहेजें|سیٹنگز محفوظ کریں
+Download backup|تنزيل نسخة احتياطية|Télécharger la sauvegarde|बैकअप डाउनलोड करें|بیک اپ ڈاؤن لوڈ کریں
+Restore|استعادة|Restaurer|रीस्टोर|ریسٹور
+Add user|إضافة مستخدم|Ajouter un utilisateur|उपयोगकर्ता जोड़ें|صارف شامل کریں
+Add company|إضافة شركة|Ajouter une société|कंपनी जोड़ें|کمپنی شامل کریں
+Add charge|إضافة رسوم|Ajouter des frais|शुल्क जोड़ें|چارج شامل کریں
+New space|مساحة جديدة|Nouvel espace|नया स्पेस|نئی جگہ
+Issue all drafts|إصدار كل المسودات|Émettre tous les brouillons|सभी ड्राफ्ट जारी करें|تمام ڈرافٹ جاری کریں
+Send reminders|إرسال التذكيرات|Envoyer les relances|रिमाइंडर भेजें|یاد دہانیاں بھیجیں
+Tap card|تمرير البطاقة|Passer le badge|कार्ड टैप करें|کارڈ ٹیپ کریں
+In the building|داخل المبنى|Dans le bâtiment|भवन में|عمارت میں
+in the building|داخل المبنى|dans le bâtiment|भवन में|عمارت میں
+in use|قيد الاستخدام|utilisés|उपयोग में|زیر استعمال
+Last 6 months|آخر 6 أشهر|6 derniers mois|पिछले 6 महीने|پچھلے 6 ماہ
+Menu|القائمة|Menu|मेनू|مینو
+Main menu|القائمة الرئيسية|Menu principal|मुख्य मेनू|مین مینو
+Help|مساعدة|Aide|सहायता|مدد
+Run billing|تشغيل الفوترة|Lancer la facturation|बिलिंग चलाएँ|بلنگ چلائیں
+invoices|فواتير|factures|इनवॉइस|انوائسز
+offices|مكاتب|bureaux|ऑफिस|دفاتر
+dedicated desks|مكاتب مخصصة|postes dédiés|डेडिकेटेड डेस्क|مخصوص ڈیسک
+hours booked|ساعات محجوزة|heures réservées|घंटे बुक|بک شدہ گھنٹے
+active contracts, before VAT|عقود نشطة، قبل الضريبة|contrats actifs, HT|सक्रिय अनुबंध, वैट से पहले|فعال معاہدے، VAT سے پہلے
+All clear.|لا شيء يحتاج إلى متابعة.|Rien à signaler.|सब ठीक है।|سب ٹھیک ہے۔
+ends|ينتهي|se termine|समाप्त|ختم
+notice by|الإشعار قبل|préavis avant|नोटिस तक|نوٹس بذریعہ
+No rooms booked today.|لا توجد حجوزات للقاعات اليوم.|Aucune salle réservée aujourd'hui.|आज कोई रूम बुक नहीं है।|آج کوئی کمرہ بک نہیں۔
+Notify|إبلاغ|Notifier|सूचित करें|مطلع کریں
+Room credits left|رصيد القاعات المتبقي|Crédits salles restants|शेष रूम क्रेडिट|کمروں کے باقی کریڈٹس
+Upcoming bookings|الحجوزات القادمة|Réservations à venir|आगामी बुकिंग|آنے والی بکنگ
+To pay|للدفع|À payer|भुगतान करना है|ادا کرنا ہے
+this month|هذا الشهر|ce mois-ci|इस महीने|اس مہینے
+at reception|في الاستقبال|à l'accueil|रिसेप्शन पर|استقبالیہ پر

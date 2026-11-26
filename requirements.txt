@@ -1,0 +1,3 @@
+flask>=3.0,<4
+tzdata>=2024.1          # time-zone database for the centre's time zone (needed on Windows)
+waitress>=3.0           # production WSGI server (Windows/Linux/Mac); app.py falls back to Flask's server if missing

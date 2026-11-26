@@ -1,0 +1,12 @@
+.venv/
+data/
+__pycache__/
+.pytest_cache/
+node_modules/
+logs/
+*.db
+*.db-*
+secret_key
+.env
+Immora-BCS.html
+tools/
